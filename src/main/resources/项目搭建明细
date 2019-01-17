@@ -1,0 +1,3 @@
+安装zk和kafka地址:https://blog.csdn.net/evankaka/article/details/52421314
+
+启动消费者命令: .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic wdl
